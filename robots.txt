@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cgb-usc.github.io//sitemap.xml
+Sitemap: https://cgb-usc.github.io/sitemap.xml
